@@ -1,16 +1,16 @@
-#Standups
+# Standups
 
 ## Standup 10.27.2022
 
-###Jacob
+### Jacob
  - Banking app
  - Be more confident in explaining my code
-Austin
+### Austin
 
-Brandon
+### Brandon
 
-Lewis
+### Lewis
 
-Scott
+### Scott
 
-Nipun
+### Nipun
