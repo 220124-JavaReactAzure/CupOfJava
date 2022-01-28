@@ -15,6 +15,8 @@
  - feeling ready for professional work
 
 ### Lewis
+- Making the Bank App
+- Id like to be a more efficient programmer, be able to apply skills in a real world scenario 
 
 ### Scott
  - Bank project but I am open to others
