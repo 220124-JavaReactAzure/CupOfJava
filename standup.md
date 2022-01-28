@@ -1,6 +1,6 @@
 # Standups
 
-## Standup 10.27.2022
+## **Standup 01.27.2022**
 
 ### Jacob
  - Banking app
@@ -23,3 +23,33 @@
  - I want to be more confident in interviewing.
 
 ### Nipun
+ - ???
+ - ???
+
+
+## **Standup 01.28.2022**
+
+### Jacob
+ - Making the bank app.
+ - 
+
+### Austin
+ - For sure going with the bank app.
+ - 
+
+### Brandon
+ - Definitely the bank app.
+ - 
+
+### Lewis
+ - Doing the bank app.
+ - 
+
+### Scott
+ - Bank app? Uh, yeah. Sure. We'll go with that one.
+ - 
+
+### Nipun
+ - 
+ - 
+
