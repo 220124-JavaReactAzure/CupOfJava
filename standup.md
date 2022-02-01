@@ -63,3 +63,29 @@
 ### Andrew
  - Main driver is functioning.
  - Working on infrastructure for the bank application.
+
+## **Standup 02.1.2022**
+
+### Jacob
+ - Continued where he left off from yesterday making connections before implementation. 
+ - Working on the children. **????? (hide your kids)**
+
+### Austin
+ - Reformatted the current code to have menus for his welcome and register page
+ - Will continue working menus for on login and account, along with account validation.
+
+### Brandon
+ - Finished the user login function and the started the main page that is sends users to. It is currently full of blank buttons.
+ - Waiting on the SQL server to continue to modify existing code.
+
+### Lewis
+ - Started on his login and welcome, and finished register
+ - Working on fixing the file reader and writer system.
+
+### Scott
+ - Started menu infrastructure for different parts of the code.
+ - Planning on continuing work on the login and registration menus.
+
+### Andrew
+ - Worked on his registration menu 
+ - Planning on getting his login page working, leading into the actual bank account page.
