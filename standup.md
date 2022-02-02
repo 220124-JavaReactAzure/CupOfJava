@@ -89,3 +89,20 @@
 ### Andrew
  - Worked on his registration menu 
  - Planning on getting his login page working, leading into the actual bank account page.
+ 
+ ## **Standup 02.02.2022**
+ - 
+
+ ## Jacob
+ - Started the appllciation window as well as programming in the username and password. Also made database with postgress
+ ## Austin
+ - nothing , waiting on database connectionn
+ ## Brandon
+ - accidently broke code
+ ## Lewis
+ - made a database in postgress, worked on hash map data structure
+ ## Scott
+
+ ## Andrew
+  - made appstate and menu
+
