@@ -22,6 +22,7 @@
  - Bank project but I am open to others
  - I want to be more confident in interviewing.
 
+
 ## **Standup 01.28.2022**
 
 ### Jacob
@@ -47,7 +48,6 @@
 
 ### Austin
  - Customer model and bank driver. Registration is passing to a file.
- - 
 
 ### Brandon
  - Working registration and password reset. GUI is vereh nice.
@@ -64,40 +64,56 @@
  - Main driver is functioning.
  - Working on infrastructure for the bank application.
 
+
 ## **Standup 02.1.2022**
+
 ### Jacob
-- Continued where he left off from yesterday making connections before implementation.
-- Working on the children. ????? (hide your kids)
+ - Continued where he left off from yesterday making connections before implementation.
+ - Working on the children. ????? (hide your kids)
+
 ### Austin
-- Reformatted the current code to have menus for his welcome and register page
-- Will continue working menus for on login and account, along with account validation.
+ - Reformatted the current code to have menus for his welcome and register page
+ - Will continue working menus for on login and account, along with account validation.
+
 ### Brandon  
-- Finished the user login function and the started the main page that is sends users to. It is currently full of blank buttons.
-- Waiting on the SQL server to continue to modify existing code.
+ - Finished the user login function and the started the main page that is sends users to. It is currently full of blank buttons.
+ - Waiting on the SQL server to continue to modify existing code.
+
 ### Lewis
-- Started on his login and welcome, and finished register
-- Working on fixing the file reader and writer system.
+ - Started on his login and welcome, and finished register
+ - Working on fixing the file reader and writer system.
+
 ### Scott 
-- Started menu infrastructure for different parts of the code.
-- Planning on continuing work on the login and registration menus.
+ - Started menu infrastructure for different parts of the code.
+ - Planning on continuing work on the login and registration menus.
+
 ### Andrew 
-- Worked on his registration menu
-- Planning on getting his login page working, leading into the actual bank account page.
+ - Worked on his registration menu
+ - Planning on getting his login page working, leading into the actual bank account page.
+
+
 ## **Standup 02.02.2022**
+
 ### Jacob 
-- Started the appllciation window as well as programming in the username and password. Also made database with postgress
+ - Started the appllciation window as well as programming in the username and password. Also made database with postgress
+
 ### Austin
-- nothing , waiting on database connectionn
- ### Brandon
-- accidently broke code
+ - nothing , waiting on database connectionn
+
+### Brandon
+ - accidently broke code
+
 ### Lewis
-- made a database in postgress, worked on hash map data structure
+ - made a database in postgress, worked on hash map data structure
+
 ### Scott
+
+
 ### Andrew
-- made appstate and menu
+ - made appstate and menu
+
 
 ## **2.3.2022**
-
 
 ### Brandon 
 - changed everything to be readable from DBeaver
