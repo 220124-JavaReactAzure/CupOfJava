@@ -134,3 +134,23 @@
 ### Andrew Snyder
 - added services, updated app state, added daos
 - still having trouble connecting classes, alot of errors and exceptions
+
+## **2.4.2022**
+
+### Brandon
+- Nearing completion. Learned not to use type money.
+
+### Austin Blandford
+- Implementing regex validation. Moving on to database connection and implementing account functionality.
+
+### Scott Damon
+- Finishing up menus and routing. Connecting database.
+
+### Lewis
+- Implementing database connection.
+
+### Jacob Sotto
+- Continuing to work on menus and connecting the database.
+
+### Andrew Snyder
+- Worked on project for four hours after training last night. Testing login.
