@@ -171,3 +171,6 @@
 
 ### Scott
 - worked on collections, p0
+
+### Austin Blandford
+- Added logging code to p0 while following along with Friday's lesson on logging. Also added CrudDAO as well as a CustomerDAO to the project.
