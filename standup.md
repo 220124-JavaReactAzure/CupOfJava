@@ -154,3 +154,20 @@
 
 ### Andrew Snyder
 - Worked on project for four hours after training last night. Testing login.
+
+## **2.7.22** ##
+
+### Brandon
+- finished p0
+
+### Jacob
+- worked on collections and troubleshooting p0
+
+### Andrew
+- working on understanding collections, accidentally deleted build path, catching up
+
+### Lewis
+- working on daos, issues with database
+
+### Scott
+- worked on collections, p0
