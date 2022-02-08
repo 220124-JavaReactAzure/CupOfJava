@@ -174,3 +174,24 @@
 
 ### Austin Blandford
 - Added logging code to p0 while following along with Friday's lesson on logging. Also added CrudDAO as well as a CustomerDAO to the project.
+
+
+## **2.8.22** ##
+
+### Brandon
+- finished p0. Practicing presenting.
+
+### Jacob
+- Working on thi linked list custom collection to store data.
+
+### Andrew
+- Stuck connecting the database. Will need help setting it up properly.
+
+### Lewis
+- Working on getting the data to write to the database properly.
+
+### Scott
+- Finished all of his menus, but is sturggeling getting information to write to the database.
+
+### Austin Blandford
+- Planning on getting his account settup in the database.
