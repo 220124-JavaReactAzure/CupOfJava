@@ -176,7 +176,7 @@
 - Added logging code to p0 while following along with Friday's lesson on logging. Also added CrudDAO as well as a CustomerDAO to the project.
 
 
-## **2.8.22** ##
+## **2.8.22** ## 
 
 ### Brandon
 - finished p0. Practicing presenting.
@@ -195,3 +195,40 @@
 
 ### Austin Blandford
 - Planning on getting his account settup in the database.
+
+## **2.9.22** ##
+- I want from everyone is a reflective of p0s:
+- What went right?
+- What could I improve upon?
+- Going forward what steps are you going to take?
+
+### Brandon
+- Every was done in time (all mvps and most of the bonuses were completed)
+- Not spend free time and spent a little more time with verifications
+- Use tests as he goes through his program
+
+### Jacob
+- Most mvps, however did  not get time to implement logging and unit testing
+- So I didn't showcase it in the p0 presentation, but anyone could have access to all the bank accounts and I figured out how to 
+- make so only the user can look at their own bank accounts
+- Will spend time more wisely in the future, and will either try to talk more with other batchmates with the projects or organize a meeting
+
+### Andrew
+- Setbacks and debugging helped gain a better understanding
+- Improve on implenting testing for the p0
+- Pseudocoding, more collaboration, and planning 
+### Lewis
+- Register ids went right, and database successfully connected with the program. Could also write data to the database
+- Authenticate the user using login and password could be improved on and implementing better sql code.
+- Organizing the project better. Had too many menus without a clear plan. 
+- Seek help sooner when encountering problems, brush up on programming knowledge, and start earlier for p1.
+
+### Scott
+- I was able to connect to my database. Create accounts login and navigate menus. Register customers and able to let them login
+- Have a fully functional program. Program infrastructure.
+- Plan a design prior to coding. Meeting with batch mates early and often. Asking questions.
+
+### Austin Blandford
+- Everything implented went right. Almost zero issues were encountered while programming.
+- Focused a little too much on adding extra stuff and did not pay attention to looking at the mvps.
+- Will pay attention more to the mvps before trying to implement extra stuff.
