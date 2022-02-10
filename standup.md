@@ -232,3 +232,23 @@
 - Everything implented went right. Almost zero issues were encountered while programming.
 - Focused a little too much on adding extra stuff and did not pay attention to looking at the mvps.
 - Will pay attention more to the mvps before trying to implement extra stuff.
+
+## **2.10.22**
+
+### Brandon
+- Looking forward to P1. WHOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!!!!
+
+### Jacob
+- Wondering what the new teams are gonna be like, cuz of the rearranging business...totally not shady. Like, there's a team with only FOUR PEOPLE!
+
+### Andrew
+- Finishing up P0 after having a good and balanced breakfast.
+
+### Lewis
+- Finishing up P0. Looking forward to P1, looking forward to not using menus the Java way.
+
+### Scott
+- Same as Lewis.
+
+### Austin Blandford
+- Another day, another nickel.
