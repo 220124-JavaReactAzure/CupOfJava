@@ -260,12 +260,12 @@
  - Achieve MVP and some bonus
  - try to get it displayed to html with some azure web services
 
-## Andrew Jacob
+## Austin and Jacob
  - Features should be MVP
  - validated enough and tested enough to handle a lot of common cases
- - secure and ideally free of bugs impossible
+ - secure and ideally free of (most) bugs impossible
  - free of major bugs
- -
+
 ## Scott and Lamar
  - Meet mvp
  - most testing and validation
