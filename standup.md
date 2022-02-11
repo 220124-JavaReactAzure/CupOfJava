@@ -252,3 +252,22 @@
 
 ### Austin Blandford
 - Another day, another nickel.
+
+##**2.11.22**
+
+## Brandon and Andrew
+ - decent level of verification, but enough
+ - Achieve MVP and some bonus
+ - try to get it displayed to html with some azure web services
+
+## Andrew Jacob
+ - Features should be MVP
+ - validated enough and tested enough to handle a lot of common cases
+ - secure and ideally free of bugs impossible
+ - free of major bugs
+ -
+## Scott and Lamar
+ - Meet mvp
+ - most testing and validation
+ - implement html web site
+ - try to add gift registery
