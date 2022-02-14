@@ -272,7 +272,7 @@
  - implement html web site
  - try to add gift registery
 
-##**2.11.22**
+##**2.14.22**
 
 ## Brandon and Andrew
  - make tables and tried to work on a column input string (the last part is secret)
