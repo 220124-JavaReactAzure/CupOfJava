@@ -280,6 +280,7 @@
 ## Austin and Jacob
  - created an idea (pokemon themed wedding, with wailord and skitty being the main bride and groom)
  - attempted to visualize schema
+ - also set up our own git repositories to branch and what not
 
 ## Scott and Lamar
  - tried to visualize schema
