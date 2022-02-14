@@ -271,3 +271,17 @@
  - most testing and validation
  - implement html web site
  - try to add gift registery
+
+##**2.11.22**
+
+## Brandon and Andrew
+ - make tables and tried to work on a column input string (the last part is secret)
+
+## Austin and Jacob
+ - created an idea (pokemon themed wedding, with wailord and skitty being the main bride and groom)
+ - attempted to visualize schema
+
+## Scott and Lamar
+ - tried to visualize schema
+ - have 6 tables for what we think exists
+
