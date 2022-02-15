@@ -286,3 +286,13 @@
  - tried to visualize schema
  - have 6 tables for what we think exists
 
+**2.15.22**
+
+## Brandon and Andrew
+ - worked on tables and interconnectivity, studied quizlet notecards
+
+## Austin and Jacob
+ - finishing visualization, starting trello board today
+
+## Scott and Lamar
+ -  finishing visualization, worked on tables, starting skeleton today
