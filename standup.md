@@ -296,3 +296,21 @@
 
 ## Scott and Lamar
  -  finishing visualization, worked on tables, starting skeleton today
+
+##**2.16.2022**
+
+##Brandon and Andrew
+ - Login pages where users can login. Boiler plates. working on getting everything connected.
+ - worked on registtration and working on getting it into database
+ 
+##Austin and Jacob
+ - Visualization for projects
+ - created a maven project 
+ - reviewing how everything works
+ - all card made for now to keep track of what to do
+ - trello board updated.
+ 
+##Scott and Lamar
+ - Made trello board
+ - made schema
+ - made repository and maven project created
