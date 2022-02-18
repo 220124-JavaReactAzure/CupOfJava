@@ -328,3 +328,16 @@
  - Lamar added created a register page and created a drop down menu in html.
  - Finished our skeleton and working on implementing CLL and servlets.
 
+ ## **2.18.2022**
+
+ ## Brandon and Andrew
+ - User login is completed and most of the user verification is done
+ - Going to start on the employee specific servlets next
+
+## Austin and Jacob
+ - Database is set up, and have been reviewing material for their project
+
+## Scott and Lamar
+ - Built a wedding registartion page, built the employee functions to create venues, florists, etc.
+ - Also solved a major merging conflict, but stuck on a dropdown menu bug
+
