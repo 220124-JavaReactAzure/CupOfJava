@@ -328,3 +328,15 @@
  - Lamar added created a register page and created a drop down menu in html.
  - Finished our skeleton and working on implementing CLL and servlets.
 
+## **2.21.2022**
+
+ ## Brandon and Andrew
+  - Finished the employee funtionality for adding services
+  - Moving on to adding funtionality to add services to weddings
+
+ ## Austin and Jacob
+  - LOOOOOOOOOOOOOOTS of review. And a lot of fixing Jacob's STS because it is such a wonderful IDE. :)
+
+ ## Scott and Lamar
+  - Scott was working on the employee model, services, and DAO functionality
+  - Lewis committed something..don't know what since he has mysteriously disappeared
