@@ -353,3 +353,23 @@
  ## Scott and Lamar
   - Scott was working on the employee model, services, and DAO functionality
   - Lewis committed something..don't know what since he has mysteriously disappeared
+
+## **2.22.2022**
+
+ ## Brandon and Andrew
+  - Some verification added
+  - Not much else more, mainly studied for QC.
+  - Brandon Improve QC: Study as stuff happens, instead of cramming everything in
+  - Andrew Improve QC: Study the notes a lot more
+ 
+ ## Austin and Jacob
+  - Worked out a lot of the skeleton and added some redirect funtionality for easier navigation through the paths.
+  - Jacob's STS is **CURRENTLY** working...waiting for it to break horribly again...and cry....crying is very important
+  - Austin Improve QC: Line up more time to study both notes and flashcards in general
+  - Jacob Improve QC: Make his own flashcards based more on the notes
+
+ ## Scott and Lamar
+  - Fixed some errors
+  - Not much else more, mainly studied for QC.
+  - Scott Improve QC: Practice talking through the notecards in general
+  - Lamar Improve QC: Spend more time reading the notes
