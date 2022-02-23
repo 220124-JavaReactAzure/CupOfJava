@@ -373,3 +373,20 @@
   - Not much else more, mainly studied for QC.
   - Scott Improve QC: Practice talking through the notecards in general
   - Lamar Improve QC: Spend more time reading the notes
+
+## **2.23.2022**
+
+ ## Brandon and Andrew
+  - Andrew created Guest servlets and meal choosing
+  - Brandon made a really complicated thing to register musicians for a wedding
+ 
+ ## Austin and Jacob
+  - Jacob's sts is working again as well as tomcat and java applications
+  - also worked on web listener stuff
+  - Austin worked on login and the 2 different register servlets functionalities
+  - both reviewing hibernate
+
+ ## Scott and Lamar
+  - Scott worked on guest servlets and employee servlets
+  - Lamar worked on register servlets and venue. 
+  - They also fixed bugs 
