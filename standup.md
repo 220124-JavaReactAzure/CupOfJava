@@ -390,3 +390,15 @@
   - Scott worked on guest servlets and employee servlets
   - Lamar worked on register servlets and venue. 
   - They also fixed bugs 
+
+## **2.24.2022**
+## Austin and Jacob
+-user service and userDAO almost complete
+-pom setup, hibernate setup, user model finished
+
+## Scott and Lamar
+-now persisting to database through postman, having issues with JSON files persisting to frontend
+
+## Brandon and Andrew
+- finished weddingUser, still have giftRegistry
+-working on finishing RSVP, plusOne, and viewWeddingDetails
