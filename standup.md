@@ -402,3 +402,9 @@
 ## Brandon and Andrew
 - finished weddingUser, still have giftRegistry
 -working on finishing RSVP, plusOne, and viewWeddingDetails
+
+## **3.3.22**
+ - We decided on what layouts we are planning to do
+ - we created our project and skeletons of the scripts
+ - our trello board is created and updated
+ - we created example layout for our dueler
