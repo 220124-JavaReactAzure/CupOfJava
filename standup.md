@@ -408,3 +408,12 @@
  - we created our project and skeletons of the scripts
  - our trello board is created and updated
  - we created example layout for our dueler
+
+ ## **3.4.22**
+ Everyone on front-end work right now
+ - Brandon worked on fight page front end
+ - Andrew worked on Login front end
+ - Jacob worked on the Employee Home
+ - Lewis is working on Register Page
+ - Austin is doing Character creation
+ - Robert is on employee function pages
