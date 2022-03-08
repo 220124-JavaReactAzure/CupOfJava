@@ -417,3 +417,10 @@
  - Lewis is working on Register Page
  - Austin is doing Character creation
  - Robert is on employee function pages
+
+## **3/8/2022**
+- Brandon working on fighting imports
+- Lewis working on logging
+- Andrew trying to figure out errors in Dockerizing app
+- Robert still doing Employee functions front-end
+- Austin starting powerpoint
