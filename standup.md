@@ -424,3 +424,13 @@
 - Andrew trying to figure out errors in Dockerizing app
 - Robert still doing Employee functions front-end
 - Austin starting powerpoint
+
+##**3.9.22**
+- We fixed some merge conflicts.
+- the backend is up and running
+- connected to azure app services
+- powerpoint presentation stared, halfway completed
+- we plan on getting testing working today
+- start connecting backend and front end
+- implemented logging with log4j in services and some servlets
+
