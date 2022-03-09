@@ -425,7 +425,7 @@
 - Robert still doing Employee functions front-end
 - Austin starting powerpoint
 
-##**3.9.22**
+## **3.9.22**
 - We fixed some merge conflicts.
 - the backend is up and running
 - connected to azure app services
