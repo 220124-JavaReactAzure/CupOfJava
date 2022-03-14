@@ -434,3 +434,56 @@
 - start connecting backend and front end
 - implemented logging with log4j in services and some servlets
 
+## **3.14.22**
+- Brandon
+  - What Went Well:
+    - Backend was completed in almost a day with very minimal changes needed afterwards
+    - The group environment was very positive throughout the whole project even when things could have been going better
+  - What Can Improve:
+    - I could have assigned tasks to people in a more structured way
+    - I could have pushed my group members to complete stuff a little earlier in the week instead of a big crunch at the end
+  - P3 Potential Strengths:
+    - Backend
+    - Frontend
+- Jacob
+  - What Went Well:
+    - Back end incorperation went very smooth
+    - Git hub was managed very well
+  - What Can Improve:
+    - A orginaized front end
+  - P3 Potential Strengths:
+    - Git Manager
+    - Research
+- Andrew
+  - What Went Well:
+    - Servlets on the backend were solid
+    - Getting the back end up and running to an app service
+  - What Can Improve:
+    - More trello usage
+    - Better time usage
+  - P3 Potential Strengths:
+    - All
+- Lewis
+
+  - He was AFK for standup :(
+
+  - P3 Potential Strengths:
+    - All
+- Austin
+  - What Went Well:
+    - Good user experience for the app
+    - Felt like his front end section was very solid
+  - What Can Improve:
+    - Asking more questions and being more active trhought the whole project
+  - P3 Potential Strengths:
+    - Frontend
+    - Testing
+- Robert
+  - What Went Well:
+    - We had solid communication on the project
+    - A good support structure in the group environment 
+  - What Can Improve:
+    - Feels like he could have done more on the backend code
+  - P3 Potential Strengths:
+    - Backend
+    - Frontend
